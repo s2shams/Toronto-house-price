@@ -3,7 +3,7 @@
 ### Project info
 - Model is trained with over 12000 entries obtained through Zoocasa's website (https://www.zoocasa.com)
 - All data in the datasheet is of recently sold houses in recent years to ensure accurate data.
-- Accuracy rate of 88%
+- Accuracy rate of 91%
 
 ### Main purpose of the project
 - To learn how to clean up data
